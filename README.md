@@ -1,2 +1,2 @@
 # twitter-refugiados
-Análisis de la discusión en Twitter acerca del tema de los refugiados. 
+Datos y jupyter notebooks de análisis de la discusión en Twitter acerca del tema **refugiados**. 
